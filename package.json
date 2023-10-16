@@ -1,0 +1,11 @@
+{
+  "name": "test-full-tree",
+  "version": "1.0.0",
+  "description": "Test for Full Stack",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Carlos Miranda",
+  "license": "ISC"
+}
